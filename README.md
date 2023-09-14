@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jhoycesantana
-- 👀 I’m interested in aprender a usar essa plataforma, concluir meus cursos durante as aulas.
-- 🌱 I’m currently learning editar meu perfil e usar a plataforma
+- 👋 ola,meu nome e Jhoyce 
+- 👀 tenho interesse em criar projetos com essa plataforma, concluir meus cursos durante as aulas.
+- 🌱 estou estudando atualmente no colegio paicandu no novo encino médio
 - 📫 How to reach me ... jhoyce.santana@escola.pr.gov.
 
 - 
